@@ -2,10 +2,10 @@
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
-License: AGPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: AGPLv3 or later
+License URI: http://www.gnu.org/licenses/agpl-3.0.html
 
-The plugin lets you configure WP parameters needed for the integration of the OIPA Search API
+The plugin lets you configure WP parameters needed for the integration of the OIPA Search API.
 
 == Description ==
 

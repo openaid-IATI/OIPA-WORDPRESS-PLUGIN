@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: OIPA SEARCH API
-Description: This plugin defines the main configurations required to integrate the OIPA v2 Search API.
-Version: 1.0
-Author: Konstantin Radoslavov
-License: GPL2
+Plugin Name: OIPA SEARCH API CONTROLLER
+Description: This plugin defines the main configurations required to integrate the OIPA V2 Search API.
+Version: 0.1
+Author: Zimmerman & Zimmerman, Konstantin Radoslavov
+License: AGPLV3
 */
 
 
@@ -105,7 +105,7 @@ function oipa_options_form() {
 						<div class="oipa_options">
 													
 							<div class="searchurl">
-								<span class="heading">Please enter the OIPA API search URL:</span><br />
+								<span class="heading">Enter the OIPA API search URL:</span><br />
 								<input type="text" name="oipa_search_url" id="oipa_search_url" style="height: 30px; width: 400px;" value="'.$oipa_search_url.'">
 							</div>
 							<br/>
