@@ -1,5 +1,6 @@
 === OIPA SEARCH API ===
 Requires at least: 3.0.1
+Version: Alpha, not production ready
 Tested up to: 3.4
 Stable tag: 4.3
 License: AGPLv3 or later
