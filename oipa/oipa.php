@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: OIPA SEARCH API CONTROLLER
-Description: This plugin defines the main configurations required to integrate the OIPA V2 Search API.
-Version: 0.1
-Author: Zimmerman & Zimmerman, Konstantin Radoslavov
+Plugin Name: OIPA API controller
+Description: This plugin defines the main configurations required to integrate the OIPA Search API.
+Version: 0.2
+Author: Zimmerman & Zimmerman, 
 License: AGPLV3
 */
 
